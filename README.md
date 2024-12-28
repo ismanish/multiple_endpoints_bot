@@ -1,7 +1,7 @@
 # Multi-Endpoint Movie Chatbot
 
 A sophisticated chatbot system that leverages both SQL and RAG (Retrieval-Augmented Generation) capabilities to provide comprehensive information about movies, including rental data, plot summaries, and detailed movie information.
-## Please Ref https://github.com/ismanish/text_sql_final for the SQL Endpoint ##
+## Please Ref https://github.com/ismanish/text_sql_final for the SQL Endpoint, File: sql_endpoint.py##
 
 ## 🌟 Key Features
 
